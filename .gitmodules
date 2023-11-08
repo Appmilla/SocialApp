@@ -1,0 +1,6 @@
+[submodule "ASC-UIKit-iOS-OpenSource"]
+	path = ASC-UIKit-iOS-OpenSource
+	url = https://github.com/Appmilla/ASC-UIKit-iOS-OpenSource
+[submodule "Amity-Social-Cloud-UIKit-Android-OpenSource"]
+	path = Amity-Social-Cloud-UIKit-Android-OpenSource
+	url = https://github.com/Appmilla/Amity-Social-Cloud-UIKit-Android-OpenSource.git
